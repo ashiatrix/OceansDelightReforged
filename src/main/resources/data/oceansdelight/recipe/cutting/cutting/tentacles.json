@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "oceansdelight:tentacles"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "oceansdelight:cut_tentacles"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

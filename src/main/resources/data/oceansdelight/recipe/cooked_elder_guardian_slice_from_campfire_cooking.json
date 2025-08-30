@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.65,
+  "ingredient": {
+    "item": "oceansdelight:elder_guardian_slice"
+  },
+  "result": {
+    "count": 1,
+    "id": "oceansdelight:cooked_elder_guardian_slice"
+  }
+}
