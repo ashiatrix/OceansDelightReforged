@@ -1,4 +1,4 @@
-# Oceans Delight (Fabric)
+# Oceans Delight 
 
 Bring the sea to your table—catch, cook, and craft ocean‑themed foods and ingredients for your Minecraft world.
 
