@@ -17,11 +17,6 @@ Bring the sea to your table—catch, cook, and craft ocean‑themed foods and in
 2) Place all jars in your `.minecraft/mods` folder.
 3) Launch the game with Fabric.
 
-## Building from source
-- Requires Java 21+
-- Run: `./gradlew build`
-- Output: `build/libs/*-all.jar` (or similar)
-
 ## Credits
 - Original Oceans Delight by Scouter456
 
